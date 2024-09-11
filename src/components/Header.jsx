@@ -1,4 +1,4 @@
-import "../css/header.css";
+import "../css/Header.css";
 import { CiShoppingBasket } from "react-icons/ci";
 import { FaMoon } from "react-icons/fa";
 import { CiLight } from "react-icons/ci";
